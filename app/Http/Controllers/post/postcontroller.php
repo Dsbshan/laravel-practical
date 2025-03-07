@@ -8,7 +8,9 @@ use Illuminate\Http\Request;
 class postcontroller extends Controller
 {
     public function index(){
-        return "chathura dilshan";
+
+=======
+    
     }
 
 }
